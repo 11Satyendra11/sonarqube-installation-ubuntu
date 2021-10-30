@@ -8,8 +8,8 @@ sonarqube installation steps ubuntu
 SonarQube is an open-source web-based tool for code quality analysis. SonarQube can analyze a wide range of code in different programming languages through plugins. This guide explains how to install SonarQube on Ubuntu 20.04 LTS.
 
 # Prerequisites
-Deploy a fully updated Ubuntu 20.04 LTS server at Vultr with at least 2GB of RAM and 1 vCPU cores.
-Create a non-root user with sudo access.
+<br>Ubuntu 20.04 LTS 2GB of RAM and 1 vCPU cores.<br>
+Create a non-root user with sudo access.<br>
 ## 1. Install OpenJDK 11 <br>
  <ol>
   
